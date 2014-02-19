@@ -1,0 +1,47 @@
+Project 1: abc Music Player		aybose, katielee, meenasub
+===========================		(grader: Leonid)
+
+Team contract: 5 / 5
+
+Design: 23 / 25
+  Milestone design: 13 / 15
+  Revised design: 10 / 10
+
+Implementation: 47 / 50
+  Warmup: 5 / 5
+  Code readability: 8 / 8
+  Specifications: 7 / 7
+  Functionality: 15 / 15
+  Our tests: 12 / 15
+    Tuplets: 1 / 2
+    Chords: 2 / 2
+    Repeats: 2 / 2
+    Voices: 1 / 2
+    Key signature: 2 / 2
+    Accidentals: 2 / 2
+    Rhythm: 2 / 3
+
+Testing: 12 / 15
+  Unit tests: 6 / 6
+  Integration tests: 3 / 6
+  Custom abc files: 3 / 3
+
+TOTAL TEAM SCORE: 87 / 95
+
+(Individual scores will include 5 points for the reflection assignment,
+ and will be posted on Stellar.)
+
+Feedback
+--------
+
+You guys did a great job overall. Your original design document was
+lacking somewhat and you didn't quite play voices correctly (and
+crashed on tuples), but mostly your code was very functional and very
+readable. I really liked your package hierarchy and general
+organization; it was very clear to me what would need to be changed to
+add functionality.
+
+I also really appreciated the entire separate class of tests, all of
+which very well-documented. The coverage of the tests was also very
+impressive. One thing that you could improve is to have actual
+end-to-end tests, rather than just listening-based tests.

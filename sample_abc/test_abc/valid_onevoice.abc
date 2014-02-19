@@ -1,0 +1,28 @@
+X:0123
+T:Valid One Voice
+K:Fm
+
+%Also checks accidental
+%basic note
+C D E F G A B c | 
+%accidentals
+^C _d =E F G A B C | 
+%accidental reset
+C D E F G A B c |
+
+%testing all accidentals
+C ^C =C _C =C | D ^D =D _D =D | E ^E =E _E =E | F ^F =F _F =F | G ^G =G _G =G | A ^A =A _A =A | B ^B =B _B =B | c ^c =c _c =c |
+
+%accidentals and time
+C _D/ E _F/2 G _A/4 A/4 B ^c1/2 | 
+
+%octaves and time;; octaves, accidentals, and time
+c' d'/ e'2 =f' g'1/2 _a' b'/4 ^c'' C |
+C B,2 A, _G,1/2 E, ^F,/2 D, C,/ | 
+
+%basic rest, chords
+[cC] z [eE] z [gG]  z [eE] z [cC] |
+
+
+%basic tuplets
+(2AB (2AB (2AB | (3ABC (3ABC (3ABC | (3A/B/C/ (3A/B/C/ (3A/B/C/ | (4ABCD (4ABCD (4ABCD :|

@@ -1,0 +1,7 @@
+X:1
+T: Piece No.2
+K: C
+
+%header works, tokens throw. 
+
+[F/2/3] z/2 q %hi

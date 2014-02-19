@@ -1,0 +1,50 @@
+X: 3
+T:You've Got A Friend In Me
+C:Randy Newman
+V:1
+V:2
+V:3
+M:4/4
+L:1/4
+Q:116
+K:Cm
+
+%sample_abc/toy_story.abc
+%http://www.noteflight.com/scores/view/38feafe2c14c5c5a3d7694d4e1000b7a48b07507
+
+%Intro
+V:1
+z/2 G/2 (3B/e/f/ ^f/2 [=Bg] [Ge] | [Gc] [=A^f] [A=f] [Ge] | 
+V:2
+E,,  [B,,E,] D,, [=B,,F,] | C,,  [C,E,] =B,,, =B,, | 
+V:3
+z4 | z4 | 
+%
+V:1
+[Gc] [^F=A] [=F3/2_A3/2] | G2 ^F2 | =F2 ^F2 |
+V:2
+B,,, [B,,E,] B,,, B,, | E,,2 B,,, z | B,,, z B,,, z |
+V:3
+z4 | z [EB,] z [D=A,] | z [_DA,] z [=D=A,] |
+%
+
+V:1
+G/2 B G/2 c [D/2^F/2A/2B/2] G3/2 | [_D/2=F/2] [CE] [B,3/2D3/2] |
+%V:2 
+%E,  z B,, z | E, z B,, (3E,/F,/G,/ | 
+%V:3
+%z4 | z4 | 
+%
+
+V:1
+z/2 c/2 [e/2A/2] c/ [e^F] [c/E/F/] [E3/2G3/2B3/2] | [EG] [D/^F/] [E3/2G3/2] | z/2 c/ A/ B [B,3/2E3/2] |
+%V:2
+%A,, z =A,, z | B,, E, C,/2 B,,/2 G,,/2 E,,/2 | A,, z G,, z |
+%V:3
+%z4 | z4 | e3/2 z5/2 |
+%
+V:1
+z/ [F/=B/d/] [F/B/d/] [Gce] c/_B/ [Gce] | c/B/[EGc]G/E/[=D,FG] |
+[=D,FG] [CEG] [E/G/c/] [EGB] | A/c/d/f/e/B/G/E/ | [C/^F/] [=D,G] [G,CE] [C] [=A3/2E3/2] |
+c/B/[A,/D/G/][A,E][D,EG] | E/B/[=EBc] [E/B/c/] e/ [=A3/2e3/2] | 
+c/B/[Ae]c/[Gc] |

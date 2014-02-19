@@ -1,0 +1,52 @@
+X: 2
+T:Mexican Hat Dance
+V:1
+V:2
+M:6/8
+L:1/8
+Q:240
+K:Dm
+
+%sample_abc/hat_song.abc
+
+V:1
+c=B |: cA^GAFE | FC3A,B, | CDEFGA | 
+V:2
+z2 |: F,,3 C,3 | F,,3 C,3 | F,,3 C,3 | 
+%
+V:1
+BG3BA |  BG^FGE^D | EC3cc |
+V:2
+G,,3 C,3 | G,,3 C,3 | G,,3 C,3 | 
+%
+V:1
+cdcBAG | [1A4C=B :| [2 F4GG |
+V:2
+G,,3 C,3 | [1F,,3 C,3 :| [2 F,3 A,3 | 
+%
+V:1
+GDDDFF | FE3GG | GDDDFF |]
+V:2
+B,3 G,3 | C3 G,3 | B,3 G,3 |]
+%
+V:1
+E4GG | GDDDFF | FE3GG | GAGFED | 
+V:2
+C3 G,3 | B,3 G,3 | C3 G,3 | =B,3 G,3 |
+%
+
+V:1
+C4c=B | cA^GAFE | F C3 A,B, | 
+V:2
+C_B,A,G, z2 | F,,3 C,3 | F,,3 C,3 | 
+%
+V:1
+CDEFGA | BG3BA | BG^FGE^D | 
+V:2
+F,,3 C,3 | G,,3 C,3 | G,,3 C,3 | 
+%
+V:1
+EC3cc | cdcBAG | F4 |]
+V:2
+G,,3 C,3 | G,,3 C,3 | F,,4 |]
+%

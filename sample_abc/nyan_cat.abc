@@ -1,0 +1,83 @@
+X: 1
+T: Nyan Cat Song
+C: Reachu
+V:1
+V:2
+M:4/4
+L:1/16
+Q:550
+K:B
+
+%sample_abc/nyan_cat.abc
+%http://www.noteflight.com/scores/view/3388e597f5baed1911c225b771cd228dbf4cb49d
+
+%Intro
+V:1
+d e f2 b z  d e f b c' d' c' a b2   |   f z d e f z b2 c' a b c' e' d' e' c' |:
+V:2
+B,4 [B,4A,4] [B,4G,4] [B,4F,4]   |   [B,4G,4E,4] [B,4G,4D,4] [B,4F,4C,4] [B,4E,4B,,4]  |:
+%
+
+%Verse 1
+V:1
+f2 g2 d d z B =d c B z B2 c2   |   =d2 d c B c ^d f g d f c d B c B |  
+V:2
+E,,2E,2F,,2F,2 D,,2D,2G,,2G,2 | C,,2C,2F,,2F,2 B,,,2B,,2B,,,2B,,2 | 
+%
+V:1
+d2 f2 g d f c d B =d ^d =d c B c | =d2 B c ^d f c d  c B c2 B2 c2 :|
+V:2
+E,,2E,2F,,2F,2 D,,2D,2G,,2G,2 | C,,2C,2F,,2F,2 B,,,2B,,2B,,,2B,,2 :| 
+%
+
+V:1
+B2 F G B2 F G B c d c e d e f | B2 B2 F G B F e d c B F D E F |
+V:2
+E,2G,2B,2E2 D,2F,2B,2E2 | C,2E,2G,2B,2 B,,2D,2F,2B,2 | 
+%
+
+
+%Verse 2
+V:1
+|: B2 F G B2 F G B c d c e d e f | B2 B2 F G B F e d c B F D E F |
+V:2
+|: E,2G,2B,2E2 D,2F,2B,2E2 | C,2E,2G,2B,2 B,,2D,2F,2B,2 | 
+V:1
+B2 F G B2 F G B B c d B F G F | [1 B2 B A B F G B e d e f B2 A2 :|
+V:2
+E,2G,2B,2E2 D,2F,2B,2E2 | [1 C,2E,2G,2B,2 B,,2D,2F,2A,2 :| 
+
+%Transition
+V:1
+B2 B A B F G B e d e f B2 c2 |:
+V:2
+C,2E,2G,2B,2 B,,2D,2F,2A,2 |:
+
+%Verse 1 Repeat
+V:1
+f2 g2 d d z B =d c B z B2 c2   |   =d2 d c B c ^d f g d f c d B c B |  
+V:2
+E,,2E,2F,,2F,2 D,,2D,2G,,2G,2 | C,,2C,2F,,2F,2 B,,,2B,,2B,,,2B,,2 | 
+%
+V:1
+d2 f2 g d f c d B =d ^d =d c B c | =d2 B c ^d f c d  c B c2 B2 c2 :|
+V:2
+E,,2E,2F,,2F,2 D,,2D,2G,,2G,2 | C,,2C,2F,,2F,2 B,,,2B,,2B,,,2B,,2 :| 
+%
+
+%Verse 2
+V:1
+|: B2 F G B2 F G B c d c e d e f | B2 B2 F G B F e d c B F D E F |
+V:2
+|: E,2G,2B,2E2 D,2F,2B,2E2 | C,2E,2G,2B,2 B,,2D,2F,2B,2 | 
+V:1
+B2 F G B2 F G B B c d B F G F | [1 B2 B A B F G B e d e f B2 A2 :|
+V:2
+E,2G,2B,2E2 D,2F,2B,2E2 | [1 C,2E,2G,2B,2 B,,2D,2F,2A,2 :| 
+
+%Ending
+V:1
+B2 B A B F G B e d e f B2 c2 | d2 B B A A A A B2 B B c c d [ce] | [b16d16f16] |]
+V:2
+C,2E,2G,2B,2 B,,2D,2F,2A,2 | [D,2A,2][D,2A,2][E,2B,2][E,2B,2]  [D,2A,2][D,2A,2][E,2G,2][E,2G,2] | [F,16A,16C16] |]
+
